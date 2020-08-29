@@ -19,6 +19,7 @@ sidebar_label: Music and podcasts
 - [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [ProgrockWorld](https://progrockworld.ru/) - (RU) - Classic Rock, Pop & more.
 - [RaveDJ](https://rave.dj/) - Online creation of mixes and mashups.
+- [YouDJ](https://youdj) - Online DJ Deck with Soundcloud / Youtube tracks.
 - [Redacted](https://redacted.ch/) - Elite music scene (requires invite).
 - [RuTracker](http://rutracker.org/forum/index.php) - Ru-Tracker, music info, releases & software.
 - [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
